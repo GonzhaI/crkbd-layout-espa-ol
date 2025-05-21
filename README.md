@@ -13,7 +13,7 @@
 - Tener la distribución de Inglés en **Internacional**
 - Tener qmk_toolbox instalado.
 
-- ![image](https://github.com/user-attachments/assets/af1f1cbd-e009-4d55-af43-553c0643fc8b)
+![image](https://github.com/user-attachments/assets/af1f1cbd-e009-4d55-af43-553c0643fc8b)
 
 **Limitaciones:**
 - La letra *ñ* solo puede ser utilizada en minúscula.

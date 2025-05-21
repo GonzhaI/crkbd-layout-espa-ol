@@ -1,7 +1,7 @@
 # crkbd-layout-español
 
 ***Distribución en Español para el teclado corne v3.***
-Este Layout tan solo funciona si utilizas la distribución del teclado de Windows en Inglés, ya que los símbolos publicados varían con la distribución en Español.
+- Este Layout tan solo funciona si utilizas la distribución del teclado de Windows en Inglés, ya que los símbolos publicados varían con la distribución en Español.
 
 **Funciones:**
 - *ñ inegrada*: Con esto podrás escribir en Español facilmente sin perder las demás funciones de QMK que están en ingles, como los parentesís, símbolos, etc.
